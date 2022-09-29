@@ -17,3 +17,9 @@ Curso de extensão IoT na prática para iniciantes.
 <img src="Cool Lappi.png">
 
 <a href="cool_lappi1.ino">Clique aqui para o código</a>
+
+
+4) Projeto F1 in Schools - projeto sendo realizado juntamente com o Prof Mauricio Caldorra - UAM
+<img src="Copy of F1 in Schools.png">
+
+<a href="copy_of_f1_in_schools1.ino">Clique aqui para o código</a>
